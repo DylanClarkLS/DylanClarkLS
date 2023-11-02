@@ -16,6 +16,5 @@
 
 ## Tecnologias que estou estudando
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65220bc691798c250de91f7c?variant=dark&roadmaps=frontend)](https://roadmap.sh)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DylanClarkLS)](https://github.com/anuraghazra/github-readme-stats)
 
 Apaixonado por tecnologia, inovação e educação, buscando melhorar a vida das pessoas através da programação.
